@@ -1,5 +1,4 @@
 package learning;
-
 public class A01_Printing_Name {
 // Assignment no.01: Print your name vertically and Horizontally.
 
@@ -7,7 +6,6 @@ public class A01_Printing_Name {
 	{
 		System.out.print("Printing Horizontally Name = ");
 		System.out.println("Prtiam");
-		
 		System.out.println("Printing Vertically Name");
 		System.out.println("P");
 		System.out.println("R");
@@ -21,3 +19,4 @@ public class A01_Printing_Name {
 	}
 
 }
+//new line
