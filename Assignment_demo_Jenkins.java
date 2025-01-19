@@ -13,13 +13,14 @@ public class As11_LeapYear
 		{
 			if (year %4==0 ) 
 			{
-			System.out.println(year+" is a leap yesr");
+			System.out.println(year+" is a leap year");
 			}
 			else
 			{
-			System.out.println(year+" is not a leap yesr");
+			System.out.println(year+" is not a leap year");
 			}
 		}
+		System.out.println("Test of Poll SCM");
 	}
 
 }
