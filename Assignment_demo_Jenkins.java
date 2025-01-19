@@ -20,7 +20,7 @@ public class As11_LeapYear
 			System.out.println(year+" is not a leap year");
 			}
 		}
-		System.out.println("Test of Poll SCM");
+		System.out.println("Test of Poll SCM _ by Pritam");
 	}
 
 }
